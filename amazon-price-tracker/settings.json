@@ -1,0 +1,6 @@
+{
+    "url":"",
+    "budget":1000000,
+    "remind-time":3600,
+    "remind-sound-path":"ding.wav"
+}
